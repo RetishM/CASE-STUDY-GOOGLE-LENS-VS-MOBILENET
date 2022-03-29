@@ -1,0 +1,15 @@
+h1 {
+    color: red;
+}
+body {
+    background-image: url("Back.jpeg");
+}
+b {
+    color: darkgoldenrod;
+    font-style: italic;
+    font-weight: bold;
+    font-variant: small-caps;
+}
+h5 {
+    color: violet;
+}
